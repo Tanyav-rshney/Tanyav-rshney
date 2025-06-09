@@ -15,10 +15,11 @@
 
 ### 🛠️ Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript, React.js
+**Frontend:** HTML, CSS, JavaScript, React.js  
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB, MySQL  
-**Tools:** GitHub, VS Code 
+**Tools:** GitHub, VS Code
+
 
 ---
 
