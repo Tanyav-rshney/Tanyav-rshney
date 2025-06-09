@@ -9,16 +9,16 @@
 - 🌱 Currently learning **HTML, CSS, JavaScript, Node.js, MongoDB**
 - 📚 Pursuing BCA from GLA University
 - 🎯 Exploring Open Source & Web Development
-- 💡 Passionate about building full-stack projects
+
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript, EJS  
+**Frontend:** HTML, CSS, JavaScript, React.js
 **Backend:** Node.js, Express.js  
 **Database:** MongoDB, MySQL  
-**Tools:** Git, GitHub, VS Code, Postman  
+**Tools:** GitHub, VS Code 
 
 ---
 
