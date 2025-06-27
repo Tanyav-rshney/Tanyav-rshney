@@ -22,6 +22,25 @@
 
 
 ---
+## 🔥 My Featured Projects
+
+### 🛍️ Myntra Functional Clone  
+A frontend-only clone of the Myntra website using **HTML, CSS, and JavaScript**.  
+📂 [View Project Repository](https://github.com/Tanyav-rshney/myntra-clone)
+
+---
+
+### 🧮 Simple Calculator  
+A basic calculator that performs arithmetic operations like addition, subtraction, multiplication, and division. Built with **HTML, CSS, and JavaScript**.  
+📂 [View Project Repository](https://github.com/Tanyav-rshney/simple-calculator)
+
+---
+
+### 🎮 Bat-Ball-Stump Game  
+A fun JavaScript mini-game where you play bat, ball, or stump against the computer.  
+📂 [View Project Repository](https://github.com/Tanyav-rshney/bat-ball-stump-game)
+
+---
 
 ### 📈 GitHub Stats
 
@@ -33,6 +52,7 @@
 
 - 📧 Email: tv728879@gmail.com  
 - 📷 Instagram: [@tanyav_rshney102](https://instagram.com/tanyav_rshney102)
+- Feel free to explore my work and reach out if you'd like to collaborate. 😊
 
 ---
 
