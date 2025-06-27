@@ -44,8 +44,7 @@ A fun JavaScript mini-game where you play bat, ball, or stump against the comput
 
 ### 📝 ToDo App
 A simple and interactive to-do list app to manage tasks.  
-🔗 Live Demo: https://tanyav-rshney.github.io/todo-app
-
+📂 [View Project Repository](https://github.com/Tanyav-rshney/todo-app)
 ---
 
 ### 📈 GitHub Stats
