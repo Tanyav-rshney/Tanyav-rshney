@@ -37,7 +37,8 @@ A basic calculator that performs arithmetic operations like addition, subtractio
 ---
 
 ### 🎮 Bat-Ball-Stump Game  
-A fun JavaScript mini-game where you play bat, ball, or stump against the computer.  
+A fun JavaScript mini-game where you play bat, ball, or stump against the computer.
+
 📂 [View Project Repository](https://github.com/Tanyav-rshney/bat-ball-stump-game)
 
 ---
