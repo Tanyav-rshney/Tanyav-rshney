@@ -59,8 +59,7 @@ A simple and interactive to-do list app to manage tasks.
 
 - 📧 Email: tv728879@gmail.com  
 - 📷 Instagram: [@tanyav_rshney102](https://instagram.com/tanyav_rshney102)
-- 💼 LinkedIn: [Tanya Varshney](www.linkedin.com/in/
-tanya-varshney-) 
+- 💼 LinkedIn: [Tanya Varshney](www.linkedin.com/in/tanya-varshney) 
 - Feel free to explore my work and reach out if you'd like to collaborate. 😊
 
 ---
