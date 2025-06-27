@@ -42,6 +42,12 @@ A fun JavaScript mini-game where you play bat, ball, or stump against the comput
 
 ---
 
+### 📝 ToDo App
+A simple and interactive to-do list app to manage tasks.  
+🔗 Live Demo: https://tanyav-rshney.github.io/todo-app
+
+---
+
 ### 📈 GitHub Stats
 
 ![Tanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanyav-rshney&show_icons=true&theme=tokyonight)
@@ -52,6 +58,7 @@ A fun JavaScript mini-game where you play bat, ball, or stump against the comput
 
 - 📧 Email: tv728879@gmail.com  
 - 📷 Instagram: [@tanyav_rshney102](https://instagram.com/tanyav_rshney102)
+-  💼 LinkedIn: [Tanya Varshney](https://www.linkedin.com/in/tanyavarshney/) 
 - Feel free to explore my work and reach out if you'd like to collaborate. 😊
 
 ---
