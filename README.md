@@ -1,92 +1,93 @@
-<h1 align="center">Hi, I'm Tanya Varshney 👩‍💻</h1>
+<h1 align="center">Hi 👋, I'm Tanya Varshney</h1>
+<h3 align="center">BCA Student • Learning Full Stack Development • Building Real Projects</h3>
+
 <p align="center">
-  BCA Student | Aspiring Full Stack Developer
+  <a href="https://github.com/Tanyav-rshney">
+    <img src="https://komarev.com/ghpvc/?username=Tanyav-rshney&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
 </p>
 
 ---
 
-## 👩‍🎓 About Me
+## 👩‍💻 About Me
 - 🎓 BCA Student at **GLA University**
 - 🌱 Currently learning **Frontend & Backend Development**
-- 💡 Interested in building clean and functional web applications
-- 🛠️ Focused on improving real-world development skills step by step
+- 💡 Focused on building clean, practical, and user-friendly projects
+- 🔍 Exploring how real-world applications work behind the scenes
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### 🌐 Frontend
-![HTML](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-black?style=flat&logo=react)
+<p align="center">
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express)
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode" />
 
-### 🗄️ Database
-![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-orange?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=flat&logo=visual-studio-code)
+</p>
 
 ---
 
-## 📌 Projects
+## 🚀 Featured Projects
 
-### 🛍️ Myntra Clone
-- Built using HTML, CSS, and JavaScript  
-- Focused on UI and layout  
-🔗 **Live Demo:** [View Project](YOUR_LIVE_LINK)  
-📁 **GitHub Repo:** [Source Code](YOUR_GITHUB_LINK)
+### 🛍️ Myntra Functional Clone
+Frontend clone of Myntra with focus on layout, UI, and responsiveness.
+
+🔗 **Live Demo:** https://tanyav-rshney.github.io/myntra-clone  
+📂 **Repository:** https://github.com/Tanyav-rshney/myntra-clone  
 
 ---
 
 ### 🧮 Simple Calculator
-- Clean UI with core JavaScript logic  
-🔗 **Live Demo:** [View Project](YOUR_LIVE_LINK)  
-📁 **GitHub Repo:** [Source Code](YOUR_GITHUB_LINK)
+Basic calculator with clean UI and JavaScript logic.
+
+🔗 **Live Demo:** https://tanyav-rshney.github.io/simple-calculator  
+📂 **Repository:** https://github.com/Tanyav-rshney/simple-calculator  
 
 ---
 
 ### 🎮 Bat-Ball-Stump Game
-- Interactive browser game using JavaScript  
-🔗 **Live Demo:** [Play Game](YOUR_LIVE_LINK)  
-📁 **GitHub Repo:** [Source Code](YOUR_GITHUB_LINK)
+Interactive browser game built using JavaScript logic.
+
+🔗 **Live Demo:** https://tanyav-rshney.github.io/bat-ball-stump-game  
+📂 **Repository:** https://github.com/Tanyav-rshney/bat-ball-stump-game  
 
 ---
 
-### ✅ ToDo App
-- Task management with add/delete features  
-🔗 **Live Demo:** [Try App](YOUR_LIVE_LINK)  
-📁 **GitHub Repo:** [Source Code](YOUR_GITHUB_LINK)
+### 📝 ToDo App
+Task management app with add/delete functionality.
+
+🔗 **Live Demo:** https://tanyav-rshney.github.io/todo-app  
+📂 **Repository:** https://github.com/Tanyav-rshney/todo-app  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tanyav-rshney&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Tanyav-rshney&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanyav-rshney&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect With Me
 
-- 📧 Email: **tv728879@gmail.com**  
-- 📸 Instagram: [tanyav_rshney102](https://instagram.com/tanyav_rshney102)  
-- 💼 LinkedIn: [Tanya Varshney](https://www.linkedin.com/in/tanya-varshney-069839348/)  
+<p align="center">
+  <a href="mailto:tv728879@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/tanyav_rshney102"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/tanya-varshney-069839348/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
-## ✨ Quote
+## ✨ A Thought
 
-> *“Keep learning, keep building, and let your work speak for you.”*
+<p align="center">
+  <i>"Consistency over perfection — small steps build strong developers."</i>
+</p>
+
+---
