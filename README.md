@@ -40,19 +40,30 @@
 
 ### 🛍️ Myntra Clone
 - Built using HTML, CSS, and JavaScript  
-- Focused on layout, styling, and UI structure  
+- Focused on UI and layout  
+🔗 **Live Demo:** [View Project](YOUR_LIVE_LINK)  
+📁 **GitHub Repo:** [Source Code](YOUR_GITHUB_LINK)
+
+---
 
 ### 🧮 Simple Calculator
-- Basic calculator with clean UI  
-- Implemented core JavaScript logic  
+- Clean UI with core JavaScript logic  
+🔗 **Live Demo:** [View Project](YOUR_LIVE_LINK)  
+📁 **GitHub Repo:** [Source Code](YOUR_GITHUB_LINK)
+
+---
 
 ### 🎮 Bat-Ball-Stump Game
-- Interactive browser-based game  
-- Logic handled using JavaScript  
+- Interactive browser game using JavaScript  
+🔗 **Live Demo:** [Play Game](YOUR_LIVE_LINK)  
+📁 **GitHub Repo:** [Source Code](YOUR_GITHUB_LINK)
+
+---
 
 ### ✅ ToDo App
-- Task management application  
-- Add, delete, and manage tasks easily  
+- Task management with add/delete features  
+🔗 **Live Demo:** [Try App](YOUR_LIVE_LINK)  
+📁 **GitHub Repo:** [Source Code](YOUR_GITHUB_LINK)
 
 ---
 
